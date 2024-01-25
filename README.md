@@ -1,3 +1,6 @@
+![05d4496c11fbec5f956a972cefa5a1eb_1705842661628-tetris](https://github.com/chenzaitian306/Tetris-Based-on-C4D/assets/108776539/19d104b4-9bef-4b9a-b7e0-6daf34613748)
+
+
 【脚本安装】
 
 【1】将Tetris文件夹拷贝C4D安装目录"D:\Program Files\Maxon Cinema 4D 2023\plugins下,重新启动C4D（请根据个人安装位置放置）
